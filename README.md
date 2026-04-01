@@ -28,6 +28,8 @@ Theme file names are formatted as `USGC-<THEME NAME>-<SOFTWARE CODE>`.
 ┌───────────────┬────────────────┐
 │ SOFTWARE CODE │ SOFTWARE NAME  │
 ├───────────────┼────────────────┤
+│ GY            │ Ghostty        │
+│ IT            │ iTerm          │
 │ ST            │ Sublime Text   │
 └───────────────┴────────────────┘
 ```
@@ -144,3 +146,24 @@ fi
 ```
 ### Screenshot
 <img width="600" alt="USGC-RETICLE-IT" src="https://github.com/user-attachments/assets/b3fcf389-ae20-438f-903a-1e0220ab7369" />
+
+
+# USGC Ghostty Color Schemes
+
+For the [Ghostty](https://ghostty.org/) terminal.
+
+### Instructions
+
+Copy the theme file to your Ghostty themes directory (`~/.config/ghostty/themes/`), then set the theme in your Ghostty config (`~/.config/ghostty/config`):
+```
+theme = USGC-RETICLE-GY
+```
+
+### Part Numbers
+```
+┌─────────────┬─────────────┬────────────────┐
+│ PART NUMBER │ THEME NAME  │ DESCRIPTION    │
+├─────────────┼─────────────┼────────────────┤
+│ 5202-010    │ RETICLE     │ Reticle scheme │
+└─────────────┴─────────────┴────────────────┘
+```
